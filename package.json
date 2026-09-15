@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/espennilsen/pi-webserver.git"
+    "url": "git+https://github.com/matbeedotcom/pi-webserver.git"
   },
   "scripts": {
     "typecheck": "tsc --noEmit"

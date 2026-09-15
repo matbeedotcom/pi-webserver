@@ -7,7 +7,7 @@ Provides a single HTTP server that other pi extensions can mount route handlers 
 ## Installation
 
 ```bash
-pi install git@github.com:espennilsen/pi-webserver.git
+pi install git@github.com:matbeedotcom/pi-webserver.git
 ```
 
 ## Usage

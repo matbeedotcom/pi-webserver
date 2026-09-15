@@ -3,7 +3,7 @@
 ## Install as pi package
 
 ```bash
-pi install git@github.com:espennilsen/pi-webserver.git
+pi install git@github.com:matbeedotcom/pi-webserver.git
 ```
 
 The extension auto-discovers via the `pi` manifest in `package.json`.
